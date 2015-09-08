@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+        <title>Vernacular</title>
+        <description>Vernacular - Name Lastname</description>
+        <link>http://username.github.io</link>
+        <atom:link href="http://username.github.io/rss.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Tue, 08 Sep 2015 14:09:24 -0400</lastBuildDate>
+        <pubDate>Tue, 08 Sep 2015 14:09:24 -0400</pubDate>
+        <ttl>60</ttl>
+
+
+        <item>
+                <title>Welcome To The Podcast</title>
+                <description>
+&lt;h1 id=&quot;welcome-to-the-vernacular-podcast&quot;&gt;Welcome to the Vernacular Podcast!&lt;/h1&gt;
+
+&lt;h3 id=&quot;what-is-vernacular&quot;&gt;What is Vernacular?&lt;/h3&gt;
+
+&lt;p&gt;The vernacular is the language that’s employed by a group of people – usually average joes – in order to discuss a subject.  Historically, it’s been categorically opposed to the idea of jargon.  Historically, vernacular theology was theology done in the common tongue; in England, vernacular theologians produced works that were both popular and pious at the same time.&lt;/p&gt;
+
+&lt;p&gt;Simply put, the Vernacular podcast is an effort at productively engaging with culture as theologians, often recovering an overlooked perspective or dimension to news items, cultural movements, or modern enterntainment. We’ll be producing this podcast two times a month, and running a twitter chat approximately once a week.  We’re planning to talk about the papacy, pop culture, and everything in between.  We’re open to suggestions, and we look forward to you joining us.&lt;/p&gt;
+
+&lt;h3 id=&quot;who-is-running-vernacular&quot;&gt;Who is Running Vernacular?&lt;/h3&gt;
+
+&lt;p&gt;We’re glad you asked.  A fuller description can be found in the bios page.  However, all three of us are practicing Catholics, teaching theology to students at different levels, who are based in NJ.  We aren’t affiliated with any particular order, nor are we associated with any other media venture.  Our opinions, our insights, and our mistakes are all our own.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-are-some-of-the-other-projects-youre-doing&quot;&gt;What are some of the other projects you’re doing?&lt;/h3&gt;
+
+&lt;p&gt;One of the other related projects we’re working on is a weekly twitter chat called theochat.  We announce our times and topics in advance; you can join the conversation using the #theochat and tweeting.  We’re working on cultivating a nice mix of theologians, students, and curious engaged people.  It’s a little like the old “Theology on Tap” programs without the pub.  You can grab a beverage of your choice while tweeting, though.  We won’t be offended. Some of our previous talks have been immortalized in storify.  Check them out here [obviously, include a link]&lt;/p&gt;
+
+&lt;p&gt;In addition to these two group ventures, our team members are very active as scholars, teachers, and in the case of Jonathan, software designers.  We’ll be posting information about those projects here as well; you can also check out our bios to learn more.&lt;/p&gt;
+</description>
+                <link>http://username.github.io/main%20site/2015/09/07/Welcome-to-the-Podcast</link>
+                <guid>http://username.github.io/main%20site/2015/09/07/Welcome-to-the-Podcast</guid>
+                <pubDate>Mon, 07 Sep 2015 00:00:00 -0400</pubDate>
+        </item>
+
+
+</channel>
+</rss>
